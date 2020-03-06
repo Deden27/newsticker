@@ -1,0 +1,1 @@
+https://cdn.rawgit.com/NegeriMakmur/blog/master/sitemap.js
